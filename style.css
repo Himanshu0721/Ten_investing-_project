@@ -1054,7 +1054,7 @@ button:hover {
 }
 
 /* Responsive Design */
-@media screen and (min-width: 412px) {
+@media screen and (min-width: 320px) {
   .container {
     flex-direction: column-reverse;
     align-items: center;
